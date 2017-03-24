@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TakeHomeAssignment08-RachelM</string>
+    <string name="set_title">Set Title</string>
+    <string name="name">Assignment</string>
+    <string name="hours">Amount of Hours</string>
+    <string name="completed">Assignment Completed</string>
+    <string name="add_assignment">Add Another Assignment</string>
+    <string name="title">title</string>
 </resources>
